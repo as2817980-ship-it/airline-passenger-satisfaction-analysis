@@ -1,0 +1,6 @@
+departure_delay_band,passengers,satisfied_passengers,satisfaction_rate
+No delay,73356,33699,45.94
+1–15 min,27787,12100,43.55
+16–30 min,10639,4089,38.43
+31–60 min,9123,3322,36.41
+>60 min,8975,3218,35.86

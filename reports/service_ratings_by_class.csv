@@ -1,0 +1,4 @@
+class,departure_and_arrival_time_convenience,ease_of_online_booking,check_in_service,online_boarding,gate_location,on_board_service,seat_comfort,leg_room_service,cleanliness,food_and_drink,in_flight_service,in_flight_wifi_service,in_flight_entertainment,baggage_handling
+Business,3.05,3.04,3.52,3.76,2.99,3.68,3.76,3.66,3.48,3.33,3.85,2.89,3.64,3.84
+Economy,3.4,2.72,3.12,2.92,2.97,3.12,3.14,3.1,3.11,3.09,3.47,2.73,3.1,3.45
+Economy Plus,3.32,2.8,3.01,3.0,2.97,3.04,3.17,3.07,3.12,3.12,3.38,2.83,3.12,3.35

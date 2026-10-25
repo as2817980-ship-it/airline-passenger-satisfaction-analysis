@@ -1,0 +1,6 @@
+arrival_delay_band,passengers,satisfied_passengers,satisfaction_rate
+No delay,72753,34490,47.41
+1–15 min,27176,11194,41.19
+16–30 min,11183,3997,35.74
+31–60 min,9287,3348,36.05
+>60 min,9088,3233,35.57

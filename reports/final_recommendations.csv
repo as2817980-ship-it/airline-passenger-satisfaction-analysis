@@ -1,0 +1,5 @@
+priority,finding,target_segment,evidence,recommendation
+1,Improve inflight WiFi,Economy and Economy Plus,Average rating 2.81/5 overall; low ratings in both segments,"Investigate connectivity reliability, coverage, and service expectations"
+2,Review online boarding,"All passengers, especially Business",Strongest overall satisfaction association; Business correlation 0.572,Identify friction points and test targeted boarding improvements
+3,Investigate online booking,Economy and Economy Plus,Low average ratings; adjusted relationship is non-monotonic,Examine booking experience by passenger type and travel class before investing
+4,Reduce flight delays,All passengers,Satisfaction is lower among passengers experiencing longer delays,Assess operational causes and quantify feasible delay-reduction opportunities

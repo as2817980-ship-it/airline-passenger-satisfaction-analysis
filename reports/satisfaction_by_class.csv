@@ -1,0 +1,4 @@
+class,total_passengers,satisfied_passengers,satisfaction_rate
+Business,62160,43166,69.44
+Economy,58309,10943,18.77
+Economy Plus,9411,2319,24.64
