@@ -132,7 +132,7 @@ The dashboard includes:
 
 **Dashboard file:** `powerbi/airline_satisfaction_clean.pbix`
 
-To view the dashboard, open the PBIX file using Power BI Desktop.
+<img width="591" height="326" alt="Screenshot 2026-10-26 010236" src="https://github.com/user-attachments/assets/8f870114-bae0-42d5-b410-297b88d99eb5" />
 
 ## Repository Structure
 
